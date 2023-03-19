@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MemeDAO - The Decentralized Meme Creators Community</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo">MemeDAO</div>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#how-it-works">How it Works</a></li>
+        <li><a href="#join">Join</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="hero">
+      <div class="container">
+        <h1>Welcome to MemeDAO</h1>
+        <p>The Decentralized Meme Creators Community</p>
+        <a href="#join" class="cta-button">Join Now</a>
+      </div>
+    </section>
+
+    <section id="about">
+      <div class="container">
+        <h2>About MemeDAO</h2>
+        <p>
+          MemeDAO is a decentralized autonomous organization for meme creators,
+          enthusiasts, and collectors. Our mission is to empower creators and
+          drive the meme economy forward through decentralized governance and
+          collaboration.
+        </p>
+      </div>
+    </section>
+
+    <section id="how-it-works">
+      <div class="container">
+        <h2>How it Works</h2>
+        <ol>
+          <li>
+            <h3>Create and Submit Memes</h3>
+            <p>Members can create and submit their memes to the community for review and voting.</p>
+          </li>
+          <li>
+            <h3>Vote and Curate</h3>
+            <p>Community members vote on meme submissions, curating the best content and rewarding creators.</p>
+          </li>
+          <li>
+            <h3>Trade and Collect</h3>
+            <p>Buy, sell, and trade meme NFTs within the MemeDAO ecosystem, supporting the meme economy.</p>
+          </li>
+          <li>
+            <h3>Governance</h3>
+            <p>Participate in governance by voting on proposals and influencing the future of MemeDAO.</p>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <section id="join">
+      <div class="container">
+        <h2>Join MemeDAO</h2>
+        <p>
+          Ready to join the decentralized meme revolution? Get started by connecting your wallet and purchasing our governance token.
+        </p>
+        <a href="#" class="cta-button">Connect Wallet</a>
+      </div>
+    </section>
+
+    <section id="contact">
+      <div class="container">
+        <h2>Contact Us</h2>
+        <p>
+          Have questions or need help? Reach out to us on our social media channels or send us an email.
+        </p>
+        <ul class="social-links">
+          <li><a href="https://twitter.com/MemeDAO">Twitter</a></li>
+          <li><a href="https://discord.gg/your_invite_link">Discord</a></li>
+          <li><a href="mailto:info@memedao.com">Email</a></li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2023 MemeDAO. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
